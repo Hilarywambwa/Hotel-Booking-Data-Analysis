@@ -73,4 +73,5 @@ The dataset includes booking details such as:
 ## Conclusion
 This project empowers the Resort and City Hotels to make data-driven decisions, optimizing revenue, reducing cancellations, and enhancing guest satisfaction. The interactive dashboard and detailed analysis provide stakeholders with clear, actionable strategies to drive profitability.
 
-![image](https://github.com/user-attachments/assets/5d1d8cd0-b236-4572-9238-a5cc345bf906)
+![image](https://github.com/user-attachments/assets/ad3c54cf-3544-4fdb-af31-397254399ef1)
+
